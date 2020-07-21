@@ -1,7 +1,7 @@
 def #display_rainbow(array_colors)
 
 
-display_rainbow = (['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
+def display_rainbow 
 
 display_rainbow[0] << "R:"
 # Write your #display_rainbow method here
