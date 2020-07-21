@@ -1,7 +1,6 @@
 
  
 # Write your #display_rainbow method here
-rain_array = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
 
 
 
@@ -11,5 +10,6 @@ def display_rainbow(colors)
   
  
  end
- 
+ rain_array = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
+
  display_rainbow(colors)
