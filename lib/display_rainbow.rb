@@ -1,6 +1,5 @@
 
  
-
 # Write your #display_rainbow method here
 rain_array = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
 
