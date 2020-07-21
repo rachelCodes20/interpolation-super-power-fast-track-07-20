@@ -5,5 +5,5 @@ puts "R: #{rain_array[0}, O: #{}, Y: : #{}G: , B: #{}, I: #{}, V: #{}"
 
 def display_rainbow(colors) 
   
-display_rainbow[0] << "R:"
+
 # Write your #display_rainbow method here
