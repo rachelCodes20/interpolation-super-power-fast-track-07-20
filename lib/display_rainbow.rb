@@ -8,7 +8,7 @@ rain_array = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 
 def display_rainbow(colors)
   
-  puts "R: #{rain_array[0}, O: #{1}, Y: #{2}G: , B: #{3}, I: #{4}, V: #{5}"
+  puts "R: #{rain_array[0}, O: #{1}, Y: #{2}G: #{3}, B: , I: #{4}, V: #{5}"
   
  display_rainbow(colors)
  
