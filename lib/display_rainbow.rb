@@ -12,4 +12,4 @@ def display_rainbow(rain_array)
  end
  rain_array = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
 
- display_rainbow(colors)
+ display_rainbow(rain_array)
